@@ -1,0 +1,38 @@
+.isth{
+    font-size: 300%;
+    margin-top: 20%;
+}
+.back{
+    background-image: url(ass/23.png);
+    background-repeat: no-repeat;
+    height: 90vh;
+    margin-top: 5%;
+    
+
+}
+ .c1{
+        box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
+        float: right; ;
+         margin-top: 70%; 
+         transition: all 1s ease-in-out;
+         margin-left: 7%;
+        
+
+        
+} 
+.b1:hover{
+    color: blue;
+    
+    
+}
+ .v1{
+    background-image: url(ass/Ellipse\ 52.png), url(ass/Ellipse\ 54.png), url(ass/Ellipse\ 52\ \(1\).png) ,url(ass/Ellipse\ 55.png),url(ass/Ellipse\ 57.png),url(ass/Ellipse\ 57\ \(1\).png) ; 
+    background-repeat:no-repeat;
+    background-position: top left, bottom right, 75%,right top, bottom left, 20%;
+ 
+    
+    
+} 
+.c4{
+    background-color:rgb(17, 1, 27);
+}
